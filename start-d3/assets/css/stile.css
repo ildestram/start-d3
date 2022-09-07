@@ -416,7 +416,11 @@ footer a {
         margin-left:70px;
     }
 
-    
+    iframe {
+        visibility: hidden;
+    }
+
+   
 
 }
 
