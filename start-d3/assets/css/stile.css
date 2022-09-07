@@ -406,6 +406,8 @@ footer a {
     aside #min-max {
         display:flex;
         flex-direction:column-reverse; 
+    
+        
     }
 
     main article {
@@ -420,7 +422,14 @@ footer a {
         visibility: hidden;
     }
 
+    aside div > a {
+        font-size:15px;
+    }
+
    
 
 }
 
+/* gap -> crea spazio tra un elemento e l'altro */
+
+/* command + f -> cerchi una parola o qualcosa sul codice */
